@@ -1,0 +1,23 @@
+{
+  "DumpMethod": true,
+  "DumpField": true,
+  "DumpProperty": true,
+  "DumpAttribute": true,
+  "DumpFieldOffset": true,
+  "DumpMethodOffset": true,
+  "DumpTypeDefIndex": true,
+  "GenerateDummyDll": true,
+  "GenerateStruct": true,
+  "DummyDllAddToken": true,
+  "RequireAnyKey": true,
+  "ForceIl2CppVersion": false,
+  "ForceVersion": 16,
+  "ForceDump": false,
+  "NoRedirectedPointer": false,
+  "OutputDirectory": "Output",
+  "OrganizeFolders": false,
+  "GenerateOffsetsTxt": true,
+  "GenerateOffsetsJson": true,
+  "GenerateOffsetsCsv": true,
+  "AutoOpenOutputFolder": true
+}
